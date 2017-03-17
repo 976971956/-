@@ -1,0 +1,16 @@
+//
+//  MyPrefixHeader.pch
+//  项目基本框架
+//
+//  Created by 王志威 on 2017/3/17.
+//  Copyright © 2017年 王志威. All rights reserved.
+//
+
+#ifndef MyPrefixHeader_pch
+#define MyPrefixHeader_pch
+
+#import "JHOftenHeader.h"
+#import "InterfaceHeader.h"
+
+
+#endif /* MyPrefixHeader_pch */
